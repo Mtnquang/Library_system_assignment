@@ -46,7 +46,7 @@
         private void button_click(object sender, EventArgs e)
         {
             Hide();
-            if (textBox1.Text == "NQ" && textBox2.Text == "0403")
+            if (textBox1.Text == "USER" && textBox2.Text == "1234")
             {
                 Form2 f = new Form2();
                 f.Show();
